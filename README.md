@@ -74,34 +74,47 @@ jupyter notebook
 2. Move to Pandas fundamentals in pandasdemo.ipynb
 3. Learn Feature Engineering techniques in DataCleaning.ipynb
 4. Practice with real datasets like Titanic
-   📊 Key Topics Covered
-   NumPy
+
+📊 Key Topics Covered
+
+NumPy
 
 - Array creation and manipulation
 - Slicing and indexing
 - Mathematical operations
 - Reshaping and flattening
-  Pandas
+
+Pandas
+
 - Series and DataFrame operations
 - Data selection and filtering
 - Data cleaning and handling missing values
 - GroupBy and aggregation
 - Sorting and indexing
-  Feature Engineering
+
+Feature Engineering
+
 - Missing value imputation
 - Outlier detection and handling
 - Data normalization and standardization
 - Categorical encoding
   Data integration
-  📝 Datasets
-- Titanic Dataset: Used throughout for practical examples - Titanic-Dataset.csv - Original dataset - titanic_cleaned.csv - Cleaned version
-  💡 Tips
+
+📝 Datasets
+
+- Titanic Dataset: Used throughout for practical examples
+  - Titanic-Dataset.csv - Original dataset
+  - titanic_cleaned.csv - Cleaned version
+
+💡 Tips
+
 - Run notebooks cell by cell to understand each concept
 - Modify code examples to experiment and learn
 - Check solution notebooks for reference
 - Use real datasets for hands-on practice
-  🤝 Contributing
-  Contributions are welcome! Feel free to:
+
+🤝 Contributing
+Contributions are welcome! Feel free to:
 
 - Add new notebooks with additional topics
 - Improve existing explanations
