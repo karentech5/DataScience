@@ -46,7 +46,14 @@ Data preprocessing and feature engineering techniques:
 
 ### 4. **Probability** (`Probability/`)
 
-Probability and statistics concepts (coming soon)
+Probability and statistics concepts
+
+### 5. **Python Guide** (`python/`)
+
+Comprehensive Python learning resources:
+
+- **Python Complete Fundamentals.pdf** - Complete guide to Python basics, syntax, and core concepts
+- Additional Python reference materials and exercises
 
 ## 🛠️ Prerequisites
 
@@ -73,12 +80,21 @@ Launch Jupyter:
 
 🚀 Getting Started
 
-1. Start with NumPy basics in numpy/intro-numpy.ipynb
-2. Move to Pandas fundamentals in pandasdemo.ipynb
-3. Learn Feature Engineering techniques in DataCleaning.ipynb
-4. Practice with real datasets like Titanic
+1. Start with Python basics - Review python/Python Complete Fundamentals.pdf
+2. Learn NumPy basics in numpy/intro-numpy.ipynb
+3. Move to Pandas fundamentals in pandas/pandasdemo.ipynb
+4. Master Feature Engineering techniques in FeatureEngineering/DataCleaning.ipynb
+5. Practice with real datasets like Titanic
 
 📊 Key Topics Covered
+
+Python Fundamentals
+
+- Python syntax and basics
+- Data types and variables
+- Control flow and loops
+- Functions and modules
+- Object-oriented programming
 
 NumPy
 
@@ -101,7 +117,7 @@ Feature Engineering
 - Outlier detection and handling
 - Data normalization and standardization
 - Categorical encoding
-  Data integration
+- Data integration
 
 📝 Datasets
 
@@ -111,6 +127,7 @@ Feature Engineering
 
 💡 Tips
 
+- Start with the Python PDF guide for foundational knowledge
 - Run notebooks cell by cell to understand each concept
 - Modify code examples to experiment and learn
 - Check solution notebooks for reference
@@ -122,7 +139,7 @@ Contributions are welcome! Feel free to:
 - Add new notebooks with additional topics
 - Improve existing explanations
 - Fix bugs or errors
-- Add more datasets
+- Add more datasets and PDF guides
 
 📄 License
 This project is open source and available for educational purposes.
@@ -134,6 +151,7 @@ Happy Learning! 🎓
 
 This README provides:
 
+- **Python Guide** section with the Python PDF file
 - Clear structure and organization
 - Overview of all directories
 - Installation instructions
