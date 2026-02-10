@@ -60,13 +60,16 @@ Probability and statistics concepts (coming soon)
 📦 Installation
 Clone the repository:
 git clone https://github.com/karentech5/DataScience.git
-cd DataScience
+
+    cd DataScience
 
 Install dependencies:
-pip install -r requirements.txt
+
+    pip install -r requirements.txt
 
 Launch Jupyter:
-jupyter notebook
+
+    jupyter notebook
 
 🚀 Getting Started
 
