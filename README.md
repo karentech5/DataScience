@@ -59,8 +59,8 @@ Probability and statistics concepts (coming soon)
 
 📦 Installation
 Clone the repository:
-git clone https://github.com/karentech5/DataScience.git
 
+    git clone https://github.com/karentech5/DataScience.git
     cd DataScience
 
 Install dependencies:
